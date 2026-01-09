@@ -1,3 +1,1 @@
 pyperclip
-requests
-python-dotenv
