@@ -1,0 +1,25 @@
+# Environment Variables
+.env
+
+# Generated Artifacts
+codebase_context.md
+prompt.txt
+models_output.txt
+
+# Python Cache
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.so
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+list_models.py
